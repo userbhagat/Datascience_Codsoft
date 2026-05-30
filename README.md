@@ -1,2 +1,5 @@
 # Datascience_Codsoft
-  Internship
+  Internship-Assignments
+   1. IrsiFlowerClassification
+   2. SalesPrediction
+   3. TitanicSurvival
